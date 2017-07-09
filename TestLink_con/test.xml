@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                        <testcases>
+                        <testcase internalid="123" name="中文1">
+                            <node_order><![CDATA[100]]></node_order>
+                            <externalid><![CDATA[]]></externalid>
+                            <version><![CDATA[1]]></version>
+                            <summary><![CDATA[]]></summary>
+                            <preconditions><![CDATA[]]></preconditions>
+                            <execution_type><![CDATA[1]]></execution_type>
+                            <importance><![CDATA[3]]></importance>
+                        <steps>
+                        <step>
+                            <step_number><![CDATA[1]]></step_number>
+                            <actions><![CDATA[<p>1个action</p>]]></actions>
+                            <expectedresults><![CDATA[<p>1个result</p>]]></expectedresults>
+                            <execution_type><![CDATA[1]]></execution_type>
+                        </step>
+                        </steps>
+                        </testcase>
+                        
+                        <testcase internalid="123" name="中文2">
+                            <node_order><![CDATA[100]]></node_order>
+                            <externalid><![CDATA[]]></externalid>
+                            <version><![CDATA[1]]></version>
+                            <summary><![CDATA[]]></summary>
+                            <preconditions><![CDATA[]]></preconditions>
+                            <execution_type><![CDATA[1]]></execution_type>
+                            <importance><![CDATA[2]]></importance>
+                        <steps>
+                        <step>
+                            <step_number><![CDATA[1]]></step_number>
+                            <actions><![CDATA[<p>2个action</p>]]></actions>
+                            <expectedresults><![CDATA[<p>2个result</p>]]></expectedresults>
+                            <execution_type><![CDATA[1]]></execution_type>
+                        </step>
+                        </steps>
+                        </testcase>
+                        
+                        <testcase internalid="123" name="中文3">
+                            <node_order><![CDATA[100]]></node_order>
+                            <externalid><![CDATA[]]></externalid>
+                            <version><![CDATA[1]]></version>
+                            <summary><![CDATA[]]></summary>
+                            <preconditions><![CDATA[]]></preconditions>
+                            <execution_type><![CDATA[1]]></execution_type>
+                            <importance><![CDATA[2]]></importance>
+                        <steps>
+                        <step>
+                            <step_number><![CDATA[1]]></step_number>
+                            <actions><![CDATA[<p>3个action</p>]]></actions>
+                            <expectedresults><![CDATA[<p>3个result</p>]]></expectedresults>
+                            <execution_type><![CDATA[1]]></execution_type>
+                        </step>
+                        </steps>
+                        </testcase>
+                        </testcases>
